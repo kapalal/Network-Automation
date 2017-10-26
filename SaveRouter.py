@@ -1,3 +1,5 @@
+#this script save running config to startup config, basically it saves the state of the router
+
 import getpass
 import sys
 import telnetlib
